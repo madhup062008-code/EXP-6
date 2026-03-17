@@ -16,6 +16,7 @@ I. Connect the multimeter at the output of kit..
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
 
+<img src="6-circuit.jpeg">
 
 OBSERVATION TABLE
 
