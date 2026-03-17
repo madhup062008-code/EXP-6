@@ -21,13 +21,14 @@ Circuit diagram:
 <img src="6-circuit.jpeg">
 <img src="tab-6.jpeg">
 
+<img src="Screenshot (27).png">
+
 
 Positive Displacement:
-<img src="Screenshot (28).png">
-
-Negative Displacement:
 <img src="Screenshot (29).png">
 
+Negative Displacement:
+<img src="Screenshot (28).png">
 
 
 OBSERVATION TABLE
